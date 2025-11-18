@@ -41,10 +41,4 @@ Hi! I’m Abdullah 👋. I’m currently learning **MERN Stack** and working on 
 
 ---
 
-## 📌 Pinned Repositories
-Check out my key projects below:
-- [FinEase Project](https://github.com/Abdullah881485/Ph-A-10-Client)
-- [English Janala Web app](https://github.com/Abdullah881485/English-Janala)
-- [Payoo Website](https://github.com/Abdullah881485/payoo-project)
-
 

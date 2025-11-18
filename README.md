@@ -29,22 +29,22 @@ Hi! I’m Abdullah 👋. I’m currently learning **MERN Stack** and working on 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdullah.al.asad.857651)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-asad-b2936a329)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah881485)
 
 ---
 
 ## 📊 GitHub Stats
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah881485&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah881485&layout=compact&theme=radical)
 
 ---
 
 ## 📌 Pinned Repositories
 Check out my key projects below:
-- [Inventory Management System](https://github.com/your-username/inventory-management-python)
-- [Fantasy Kingdom Web Page](https://github.com/your-username/fantasy-kingdom)
-- [Tourism Website](https://github.com/your-username/tourism-website)
+- [FinEase Project](https://github.com/Abdullah881485/Ph-A-10-Client)
+- [English Janala Web app](https://github.com/Abdullah881485/English-Janala)
+- [Payoo Website](https://github.com/Abdullah881485/payoo-project)
 
 

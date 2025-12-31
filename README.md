@@ -37,7 +37,7 @@ Hi! I’m Abdullah 👋. I’m currently learning **MERN Stack** and working on 
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah881485&theme=highcontrast&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah881485&theme=highcontrast&hide_border)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah881485&show_icons=true&theme=tokyonight&cache_seconds=1800)
 

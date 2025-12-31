@@ -36,11 +36,10 @@ Hi! I’m Abdullah 👋. I’m currently learning **MERN Stack** and working on 
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah881485&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah881485&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah881485&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah881485&layout=compact&theme=tokyonight)
 

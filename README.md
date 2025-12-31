@@ -41,55 +41,5 @@ Hi! I’m Abdullah 👋. I’m currently learning **MERN Stack** and working on 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah881485&theme=dark)](https://git.io/streak-stats)
 
-## Stuff I did ⏳:
-</br>
-<p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdullah881485s&show_icons=true&theme=tokyonight&count_private=true" width="445" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdullah881485&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Abdullah" width="390"/>
-  
-
-</p>
-<br/>
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah881485&theme=blue-green" />
-
-</p>
-
-<!-- <p align="center"> 
-   <img src= "https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=onedark" />
-</p> -->
-
-<!-- <br/> -->
-
-<font size = "2">
-
-- Human-Pokemon-CycleGAN: https://Abdullah881485.github.io/human-pokemon-cycleGAN
-- PokemonGAN: https://Abdullah881485.github.io/PokemonGAN/
-- LUMOS: https://Abdullah881485.github.io/dark-images-dataset-mini-2/
-- Blender 3D Projects: https://github.com/Abdullah881485/blender-projects
-
-</font>
-
-
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----------------------------------------------------------------Extra stuff ------------------------------------------------------------------------------------------>
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--
-<div align="left">
-<a href="https://github.com/abhishek-choudharys/PokemonGAN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-choudharys&repo=PokemonGAN&theme=dracula" />
-</a>
-</div>
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="20%" height="10%">
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX,OpenEdge%20ABL&layout=compact)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhishek-choudharys.abhishek-choudharys)
-
----
 
 

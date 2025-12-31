@@ -3,12 +3,13 @@
 
 
 # Abdullah Al Asad
-### MERN Stack Learner | Aspiring Web Developer
+MERN Stack Learner | Aspiring Web Developer | Exploring Full-Stack Development
 
 ---
 
 ## About Me
-Hi! I’m Abdullah 👋. I’m currently learning **MERN Stack** and working on web projects to improve my skills. I enjoy creating practical applications and exploring new technologies.
+Hi, I’m Abdullah
+I’m learning the MERN stack and building web projects to strengthen my full-stack development skills. I enjoy creating practical applications and exploring modern web technologies.
 
 **Currently:**
 - Learning **Next.js** and modern React features  

@@ -44,15 +44,15 @@ Hi! I’m Abdullah 👋. I’m currently learning **MERN Stack** and working on 
 ## Stuff I did ⏳:
 </br>
 <p align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishek-choudharys&show_icons=true&theme=tokyonight&count_private=true" width="445" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Abhishek Choudhary" width="390"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdullah881485s&show_icons=true&theme=tokyonight&count_private=true" width="445" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdullah881485&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Abdullah" width="390"/>
   
 
 </p>
 <br/>
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-choudharys&theme=blue-green" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah881485&theme=blue-green" />
 
 </p>
 
@@ -64,10 +64,10 @@ Hi! I’m Abdullah 👋. I’m currently learning **MERN Stack** and working on 
 
 <font size = "2">
 
-- Human-Pokemon-CycleGAN: https://abhishek-choudharys.github.io/human-pokemon-cycleGAN
-- PokemonGAN: https://abhishek-choudharys.github.io/PokemonGAN/
-- LUMOS: https://abhishek-choudharys.github.io/dark-images-dataset-mini-2/
-- Blender 3D Projects: https://github.com/abhishek-choudharys/blender-projects
+- Human-Pokemon-CycleGAN: https://Abdullah881485.github.io/human-pokemon-cycleGAN
+- PokemonGAN: https://Abdullah881485.github.io/PokemonGAN/
+- LUMOS: https://Abdullah881485.github.io/dark-images-dataset-mini-2/
+- Blender 3D Projects: https://github.com/Abdullah881485/blender-projects
 
 </font>
 

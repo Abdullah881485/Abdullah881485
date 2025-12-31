@@ -41,6 +41,11 @@ Hi! I’m Abdullah 👋. I’m currently learning **MERN Stack** and working on 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah881485&theme=dark)](https://git.io/streak-stats)
 
+📊 **Public Repositories:** 21
+👥 **Followers:** 2
+👤 **Following:** 1
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah881485&show_icons=true&theme=radical)
 ---
 
 

@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.postimg.cc/FzkDs3t7/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png)
+![Banner]([https://i.postimg.cc/FzkDs3t7/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png](https://i.ibb.co.com/KxGD51Rd/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner-1.png))
 
 
 # Abdullah Al Asad
